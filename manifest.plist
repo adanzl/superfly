@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://182.92.198.68/dist/MAnytime_alpha.ipa</string>
+					<string>http://182.92.198.68/dist/MAnytime_alpha.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://182.92.198.68/dist/logo.png</string>
+					<string>http://182.92.198.68/dist/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://182.92.198.68/dist/logo.png</string>
+					<string>http://182.92.198.68/dist/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
