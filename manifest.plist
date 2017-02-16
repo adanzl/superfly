@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://182.92.198.68/dist/logo.png</string>
+					<string>http://ec2-52-78-83-47.ap-northeast-2.compute.amazonaws.com/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://182.92.198.68/dist/logo.png</string>
+					<string>http://ec2-52-78-83-47.ap-northeast-2.compute.amazonaws.com/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
